@@ -11,14 +11,13 @@ Show profile views
 <img align="left" src="assets/profile_pic.jpg" width="300" /> 
 
 ```
-pipi-bear@github
+DrxmReal@github
 -------------------------
-🏫 NTU CSIE
-📜 Chinese Literature in undergrad, fell in love with math, CS in grad :3
-🌱 Working on Visible light communications and positioning
-💫 Languages: C, Python 
-✏️ Keen on crafting neat, beautiful LaTeX HW
-🏃‍♀️ Marathon / hiking / cycling
-🎵 Check my great musical taste below ჱ̒⸝⸝•̀֊•́⸝⸝)♡
+🏫 CYP PTMC
+📜 Even though I study medicine, I still love coding <3
+🌱 Working on rehabilitation
+💫 Languages i use : C#, Python ,Rust ,React ,Php
+✏️ Work individually and according to your interests
+🏃‍♀️ Running / walking / cycling
 ```
 </p>
